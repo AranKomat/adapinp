@@ -1,4 +1,4 @@
-# adapint
+# Adaptive Input
 Unofficial implementation of Adaptive Input in PyTorch
 
 Combined with Adaptive Softmax, Adaptive Input drastically decreases the number of parameters of your model.
